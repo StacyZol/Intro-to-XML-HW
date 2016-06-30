@@ -1,0 +1,54 @@
+<movie collection:id="1">
+ +		<title>The Grinch</title>
+ +		<description>The greatest Christmas movie</description>
+ +		
+ +		<showtimes>
+ +			<time>7pm</time>
+ +			<time>8pm</time>
+ +			<time>9pm</time>
+ +		</showtimes>
+ +
+ +		<emptyElement/>
+ +		<emptyElement/>
+ +	</movie>
+ +	<movie collection:id="2">
+ +		<title>Oceans Eleven</title>
+ +		<description>Learn how to rob a casino</description>
+ +		
+ +		<showtimes>
+ +			<time>11pm</time>
+ +			<time>11:30pm</time>
+ +			<time>12am</time>
+ +		</showtimes>
+ +
+ +		<empty_element/>
+ +		<empty_element/>
+ +	</movie>
+ +	<movie collection:id="3">
+ +		<title>21</title>
+ +		<description>Learn how to count cards</description>
+ +		
+ +		<showtimes>
+ +			<time>8pm</time>
+ +			<time>9pm</time>
+ +			<time>10pm</time>
+ +		</showtimes>
+ +
+ +		<empty_element/>
+ +		<empty_element/>
+ +	</movie>
+ +	<movie collection:id="4">
+ +		<title>The Martian</title>
+ +		<description>Come out to Space!</description>
+ +		
+ +		<showtimes>
+ +			<time>10pm</time>
+ +			<time>11pm</time>
+ +			<time>11:30pm</time>
+ +		</showtimes>
+ +
+ +		<empty_element/>
+ +		<empty_element/>
+ +	</movie>
+ +
+ +</movie_collection> 

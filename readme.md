@@ -145,10 +145,10 @@ Look at the following code/file and answer the questions below:
 </manifest>
 ```
 
- 1. How many elements does this xml file have?
- 2. What is a namespace in this example?
- 3. Name parent and children elements.
- 4. Find and name empty elements (the ones that do not have content).
+ 1. How many elements does this xml file have? --> 7
+ 2. What is a namespace in this example? --> ttp://schemas.android.com/apk/res/android
+ 3. Name parent and children elements. --> Parents - manifest, application, activity(MainActivity), intent-filter; Children - application, activity(MainActivity), activity(InformationActivity), service, intent-filter, action, category
+ 4. Find and name empty elements (the ones that do not have content). --> <activity android:name=".InformationActivity" />
 
 
  ## One more Exercise
